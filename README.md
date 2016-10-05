@@ -34,7 +34,7 @@ A 16-week intensive development bootcamp, focussing on:
 - Pair programming and group work
 
 | Project   | Description | Technologies | Testing | Project Link |
-|---        |---          |---           |---      | --           |
+|---        |---          |---           |---      | ---         |
 | MakersBnB | An Airbnb style website | Node.js, Sequelize, PostgreSQL | Mocha, Zombie | [Makersbnb project](url)|
 | Chitter | A basic Twitter clone | Ruby, Sinatra, DataMapper, PostgreSQL | RSpec, Capybara |[Makersbnb project](url) |
 
@@ -44,7 +44,7 @@ A 16-week intensive development bootcamp, focussing on:
 - Modules across pure and applied mathematics, with a focus on the pure side.
 - Social secretary for college netball society
 
-#### St Helen's School, London (Sep '03 - Aug '10)
+#### Wimbledon High School, London (Sep '03 - Aug '10)
 
 - A Levels:       4 A*s in Mathematics, Further Mathematics, Physics and Biology
 - AS Level:       A in Chemistry
@@ -54,9 +54,11 @@ A 16-week intensive development bootcamp, focussing on:
 ## Experience
 
 **JP Morgan** (Feb '14 - Aug '16)
+
 *Structured Cross-Asset Solutions Sales*  
 
 **JP Morgan** (Aug '11 - Feb '14)   
+
 *Equity Financing SalesTrading*  
 
 ## Hobbies and Interests
